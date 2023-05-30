@@ -12,13 +12,13 @@ In this project, we will be working with the The Movie Database (TMDB) Box Offic
 
 ### Below is the summary of the tasks performed in this project:
 - __Task 1:__ Project Review: Assessing Previous Work
-- Data Loading and Exploration
-- Visualizing the Target Distribution
-- Relationship between Film Revenue and Budget
-- Does having an Official Homepage Affect Revenue?
-- Distribution of Languages in Film
-- Frequent Words in Film Titles and Discriptions
-- Do Film Descriptions Impact Revenue?
+-- Data Loading and Exploration
+-- Visualizing the Target Distribution
+-- Relationship between Film Revenue and Budget
+-- Does having an Official Homepage Affect Revenue?
+-- Distribution of Languages in Film
+-- Frequent Words in Film Titles and Discriptions
+-- Do Film Descriptions Impact Revenue?
 
 - __Task 2:__ Analyzing Movie Release Dates
 - __Task 3:__ _To be continued_
