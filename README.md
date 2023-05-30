@@ -1,4 +1,4 @@
-# Data-Analysis-and-Visualization-using-Plotly-and-Seaborn
+# EDA-using-Plotly-and-Seaborn
 Analyze Worldwide Box Office Revenue with Plotly and Python
 
 
