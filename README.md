@@ -1,5 +1,5 @@
 # EDA-using-Plotly-and-Seaborn
-Analyze Worldwide Box Office Revenue with Plotly and Python
+Analyze Worldwide Box Office Revenue with Plotly and Python. This project is built on top of the "Data Analysis Using Seaborn and Python" project I created.
 
 
 In this project, we will be working with the The Movie Database (TMDB) Box Office Prediction data set.
