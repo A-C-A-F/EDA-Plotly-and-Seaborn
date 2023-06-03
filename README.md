@@ -21,4 +21,9 @@ In this project, we will be working with the The Movie Database (TMDB) Box Offic
 >+ _Do Film Descriptions Impact Revenue?_
 
 - __Task 2:__ Analyzing Movie Release Dates
-- __Task 3:__ ***To be continued...***
+- __Task 3:__ Preprocessing Features
+- __Task 4:__	Create Features Based on Release Date
+- __Task 5:__	Using Plotly to Visualize the Number of Films Per Year
+- __Task 6:__	Number of Films and Revenue Per Year
+- __Task 7:__	Do Release Days Impact Revenue?
+- __Task 8:__	Relationship between Runtime and Revenue
